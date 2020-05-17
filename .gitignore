@@ -1,4 +1,5 @@
 .clasp.json
 .clasprc.json
+.package-lock.json
 creds.json
 /node_modules/
